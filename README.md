@@ -1,4 +1,4 @@
-# Time Tracking Plugin for Tutor LMS
+# User Time Tracking Plugin for Tutor LMS
 
 ## Overview
 This plugin tracks the time users spend on your WordPress website, specifically integrating with the Tutor LMS plugin. It records session durations, providing insights into user engagement with your online courses.
@@ -47,6 +47,4 @@ This plugin is designed to work seamlessly with **Tutor LMS** to track how long 
 - Improved reporting dashboard.
 - Export session data as CSV.
 - User-specific session analysis.
-
-For any issues or feature requests, feel free to contribute or report on [GitHub Repository Link].
 
